@@ -1,0 +1,14 @@
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.exe.config
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.exe
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.pdb
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.exe
+C:\Users\КалиаскарР\source\repos\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.pdb
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.exe.config
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.exe
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\bin\Debug\ADO.NET_LESSON2.pdb
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.exe
+C:\Users\ЖаксылыковО\Desktop\ADO.NET-CLASS-WORK-master\ADO.NET_LESSON2\ADO.NET_LESSON2\obj\Debug\ADO.NET_LESSON2.pdb
